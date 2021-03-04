@@ -1,0 +1,4 @@
+Escribir un programa que calcule la suma de los bytes ocupados por todos los ficheros
+y directoriosse imprime estocontenidos a partir de un directorio dado como parámetro.
+¿Qué ocurre cuando hay dos enlaces hard que hacen referencia al mismo fichero? 
+Haz que en estos casos el espacio ocupado se considere sólo una vez.  
